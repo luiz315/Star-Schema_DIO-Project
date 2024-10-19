@@ -31,7 +31,7 @@ Se compararmos o modelo inicial com o modelo final podemos notar uma quantidade 
 
 Apenas Lembrando que essa é uma versão muito simplificada desse modelo não contemplando aqui todos os seus pontos positivos e negativos, apenas dando minha visão sobre tal. 
 
-Se quiser entender um pouco mais da minha visão sobre o assunto tem esse outro <a href=“https://github.com/luiz315/Diagrama-Entidade-Relacionamento-Star-Schema.git“>projeto</a> bem legal também aqui no meu perfil.
+Se quiser entender um pouco mais da minha visão sobre o assunto tem esse outro [projeto](https://github.com/luiz315/Diagrama-Entidade-Relacionamento-Star-Schema.git) bem legal também aqui no meu perfil.
 
 
 
